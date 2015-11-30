@@ -1,5 +1,5 @@
 # moving-planner
-Project From Udacity Intro To Ajax Course
+Project From Udacity Intro To Ajax Course<br>
 The project consists of:<br>
 * Getting Values From Form using jQuery
 * Load Google Street View Image to background
@@ -31,25 +31,5 @@ Now, you're good to go with Google Street View Image API Key.
 
 Now, you're good to go with New York Times API Key.
 
-
 ### How To run the application
-Open up your terminal or command prompt and run the command below:<br>
-* $ python finalproject.py
-
-### API end points
-* get all restaurants
-
-> {base_url}/restaurants/JSON
-
-* get all menu items in a restaurant
-
-> {base_url}/restaurant/<int:restaurant_id>/JSON
-
-* get a menu item
-
-> {base_url}/restaurant/<int:restaurant_id>/<int:menu_id>/JSON
-
-Note: base_url will be printed out when you run the app.
-for example, say you get base_url of "localhost:8080"<br>
-and you wanna get all menu items in a restaurant with an id of 1,
-you can get it with "localhost:8080/restaurant/1/JSON"
+Open index.html with your favorite browser
